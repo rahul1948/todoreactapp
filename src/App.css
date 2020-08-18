@@ -1,0 +1,12 @@
+.App {
+  border: solid red 2px;
+  width: 200px;
+}
+.item-list {
+  background-color: green;
+}
+
+.delete {
+  background-color: red;
+  border-radius: 50%;
+}
